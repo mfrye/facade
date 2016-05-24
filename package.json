@@ -22,15 +22,12 @@
     "clone-deep": "^0.2.4",
     "inherits": "^2.0.1",
     "is-email": "0.1.0",
-    "new-date": "^1.0.0",
+    "new-date": "git+ssh://git@github.com:mfrye/new-date.git",
     "obj-case": "0.x",
     "trim": "0.0.1",
     "type-component": "0.0.1"
   },
   "devDependencies": {
-    "@segment/eslint-config": "^3.1.1",
-    "@segment/isodate": "^1.0.2",
-    "@segment/to-iso-string": "^1.0.0",
     "browserify": "^13.0.0",
     "browserify-istanbul": "^2.0.0",
     "eslint": "^2.9.0",
